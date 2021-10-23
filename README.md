@@ -34,9 +34,8 @@ Feel free to explore my repos and to send me a message on one of my social media
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 <br/>
 
