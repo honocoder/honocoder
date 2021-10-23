@@ -20,7 +20,6 @@ Feel free to explore my repos and to send me a message on one of my social media
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 - 📱 &nbsp;
-  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
 - 🛢 &nbsp;
@@ -41,7 +40,7 @@ Feel free to explore my repos and to send me a message on one of my social media
 
 <br/>
 
-<h3> 📖 &nsbp;Learning </h3>
+<h3> 📖 &nbsp;Learning </h3>
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
