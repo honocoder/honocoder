@@ -54,7 +54,7 @@ Feel free to explore my repos and to send me a message on one of my social media
   
 <br />
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/jimymltta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jimymltta&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimymltta&theme=buefy&layout=compact" />
 </a>
