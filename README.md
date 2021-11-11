@@ -36,6 +36,7 @@ Feel free to explore my repos and to send me a message on one of my social media
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 - 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
   ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
