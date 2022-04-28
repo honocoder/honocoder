@@ -2,9 +2,9 @@
 
 ### Hello! 👋
 
-I'm Jimy, from France. I'm a full stack web & mobile developer, always learning new things!
+I'm Jimy, from France. I'm a full stack web & mobile developer, always learning new things! I am currently a front end developper intern.
 
-I'm also a webdesigner and UI/UX deigner, I started doing this before coding actually. I use tools like Webflow & Figma for this.
+I'm also a webdesigner and UI/UX designer, I started doing this before coding actually. I use tools like Webflow & Figma for this.
 
 Feel free to explore my repos and to send me a message on one of my social medias!
 
