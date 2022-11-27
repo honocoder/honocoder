@@ -73,12 +73,14 @@ Feel free to explore my repos and to send me a message on one of my social media
 <br/>
 
 <h3> 📖 &nbsp;Learning </h3>
+
   ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
   
 <br />
 
 <h3> 📚 &nbsp;Wanna Learn in the future </h3>
+
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   
