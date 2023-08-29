@@ -2,9 +2,9 @@
 
 ### Hello! 👋
 
-I'm Jimy, from France. I'm a full stack web & mobile developer, always learning new things! I am currently a front end developper freelance.
+I'm Jimy, a full stack developer from France. I'm focusing on Next.js but I also love to use tools like Astro or Svelte. Also, I'm constantly exploring new technologies.
 
-I'm also a webdesigner and UI/UX designer, I started doing this before coding actually. I use tools like Webflow & Figma for this.
+Currently, I'm developing a SaaS using Next.js and Supabase.
 
 Feel free to explore my repos and to send me a message on one of my social medias!
 
