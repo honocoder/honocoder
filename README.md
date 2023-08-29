@@ -63,7 +63,7 @@ Feel free to explore my repos and to send me a message on one of my social media
 
 <a href="https://github.com/honocoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honocoder&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoder&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honocoder&theme=buefy&layout=compact" />
 </a>
 
 <br/>
