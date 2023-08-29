@@ -62,8 +62,8 @@ Feel free to explore my repos and to send me a message on one of my social media
 <br />
 
 <a href="https://github.com/honocoder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jimymltta&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimymltta&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honocoder&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honoder&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -76,6 +76,6 @@ Feel free to explore my repos and to send me a message on one of my social media
 -->
 <a href="https://www.linkedin.com/in/jimymarletta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/neodesign.amiens/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitter.com/jimymltta/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.twitter.com/honocoder/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:jimy@neodesign.io"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
